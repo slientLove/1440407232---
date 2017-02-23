@@ -1,0 +1,32 @@
+body{
+		margin: 0 auto;
+/*		background:url("2.png") no-repeat 95% 30%;
+*/	}
+		
+
+#main{
+		height: 632px;
+		width:1024px;
+		border: 1px solid black;
+		margin: 0 auto;
+		background:url("2.png") no-repeat 50% -5%;
+	}
+
+#main table{
+			width:350px;
+			height: 200px;
+			margin: 160px 370px;
+			text-align: center;
+	}
+#main table tr td{
+			padding: 20px;
+}
+#main .text{
+			width: 60px;
+			height: 30px;
+			border: 1px solid white;
+			background: transparent;
+			padding: 10px;
+			text-align: center;
+			line-height: 10px;
+		}

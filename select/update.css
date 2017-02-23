@@ -1,0 +1,45 @@
+*{
+	width:1345px;
+	height: 900px;
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+}
+#header{
+	width: 1345px;
+	height: 100px;
+}
+#header img{
+	width: 100%;
+	height: 100px;
+}
+#nav{
+	float: left;
+	width: 225px;
+	height: 900px;
+	background: url("nav.png") no-repeat;
+}
+#main{
+	border: 1px solid red;
+	float: right;
+	width: 1115px;
+	height:900px;
+	background:#ccf;
+}
+#main .table{
+	width: 1050px;
+	height: 500px;
+	margin: 10px auto;
+	text-align: center;
+	border: 1px solid red;
+		}
+#img{background: url(nav2.png) no-repeat; height:60px;}
+#img .ul1{list-style-type: none;display: block;height: 60px;width: 500px;}
+#img .ul1 li{line-height: 15px;margin: 15px 30px;float: left;font-size: 14px;}
+#img .ul1 li a{text-decoration: none;color: white;}
+#img .ul2{ border:1px solid green;display:block;width: 100px;height:20px;list-style-type: none;
+	position: relative;top: -60px;left: 900px;margin: 20px 20px;list-style-type: none;}
+#img .ul2>li{ width:100px;height:20px;text-align: center;color: white;}
+#img .ul2 a{text-decoration: none;color: white;}
+#img ul a:hover{text-decoration: underline;}
+#main #foot{height: 96px;background: url("bottom1.png") no-repeat;}

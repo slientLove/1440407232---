@@ -1,0 +1,28 @@
+body{		height: 632px;
+			width:1024px;
+			margin: 0 auto;
+		}
+		
+		#main{
+			height: 632px;
+			width:1024px;
+			margin: 0 auto;
+			border: 1px solid #ccf;
+			background:url("1.png") no-repeat 50% -5%;
+		}
+		#main table{
+			margin: 220px 400px;
+			text-align: center;
+		}
+		#main table tr td{
+			padding: 20px;
+		}
+		#main .text{
+			width: 60px;
+			height: 30px;
+			border: 1px solid white;
+			background: transparent;
+			padding: 10px;
+			text-align: center;
+			line-height: 10px;
+		}
